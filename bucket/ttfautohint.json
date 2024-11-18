@@ -1,0 +1,16 @@
+{
+    "homepage": "https://www.freetype.org/ttfautohint/",
+    "version": "1.8.4",
+    "license": "FTL",
+    "description": "ttfautohint provides a 99% automated hinting process and a platform for finely hand-hinting the last 1%",
+    "url": "https://downloads.sourceforge.net/project/freetype/ttfautohint/1.8.4/ttfautohint-1.8.4-win32.7z",
+    "hash": "82E8025E1FBFA1A2F605B820847F80976844CE845E4DC65C1A09A21E4CE57F08",
+    "bin": "ttfautohint.exe",
+    "checkver": {
+      "url": "https://sourceforge.net/projects/freetype/rss?path=/ttfautohint/",
+      "regex": "/ttfautohint/(?<version>[\\d.]+)/ttfautohint-(?<suffix>[\\d.]+)-win32.7z"
+    },
+    "autoupdate": {
+      "url": "https://downloads.sourceforge.net/project/freetype/ttfautohint/$version/ttfautohint-$matchSuffix-win32.7z"
+    }
+  }
