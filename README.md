@@ -35,4 +35,4 @@ to ensure the application always remains up-to-date in the future.
 ## License
 
 Files in this repository are licensed under MIT License,
-see [LICENSE.md](LICENSE.md) for more information.
+see [LICENSE.md](LICENSE) for more information.
