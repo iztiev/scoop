@@ -5,7 +5,6 @@
     "license": "OFL-1.1",
     "url": "https://github.com/rsms/inter/releases/download/v4.1/Inter-4.1.zip",
     "hash": "9883FDD4A49D4FB66BD8177BA6625EF9A64AA45899767DDE3D36AA425756B11E",
-    "extract_dir": "Inter Hinted for Windows/Desktop",
     "checkver": {
         "github": "https://github.com/rsms/inter"
     },
